@@ -1,0 +1,6 @@
+name = "cloud-proj"
+type = "javascript"
+account_id = "642136120f9723382eafaefc38e5b005"
+workers_dev = true
+route = ""
+zone_id = ""
